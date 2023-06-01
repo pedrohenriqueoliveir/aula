@@ -63,3 +63,33 @@ if (n1>n2)
 document.write("o maio numero e" + n1)
 else
 document.write("o maio e " + n2)
+
+
+var contador =1;
+while(contador <=100){
+    document.write(contador);
+    contador++;
+}
+while (number!=3){
+var number= Number (prompt ( "digite um numero"))
+if (number==3){
+    alert("voce digito 3. programa encerrado")
+}
+}
+ var contador = 1
+ for ( contador;contador <=5; contador ++){
+    document.write(contador + "<br>");
+
+ }
+ var contador = 0;
+ while (contador<=50{})
+ document.writeln(contador)
+ contador--;{
+    var contador 0;
+    while (contador <=70){
+        document.writeln(contador)
+        contador =contador+2;
+    }
+
+ }
+
